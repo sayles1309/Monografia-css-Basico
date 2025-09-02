@@ -40,7 +40,7 @@
 En la actualidad, el diseño web constituye un componente esencial en el desarrollo de aplicaciones y sitios en Internet, ya que permite estructurar la información de manera visualmente atractiva, funcional y accesible para los usuarios. Dentro de este contexto, Cascading Style Sheets (CSS) se ha convertido en una de las herramientas más importantes, pues otorga a los desarrolladores la capacidad de controlar la apariencia y el formato de los elementos HTML (MDN Web Docs, 2024).
 El presente trabajo monográfico aborda los conceptos fundamentales de CSS Básico, entre los cuales se incluyen los selectores simples y compuestos, la especificidad, las propiedades de texto y fuentes, el modelo de caja, los colores y fondos, las unidades de medida, los sistemas de posicionamiento, Flexbox, Grid Layout, así como las pseudo-clases y pseudo-elementos. Estos temas permiten comprender cómo se construyen y organizan las interfaces gráficas, fomentando el diseño adaptable y coherente en el entorno web (W3C, 2023).
 Con esta revisión, se busca proporcionar una visión integral sobre los principios que rigen CSS, sus principales propiedades y métodos de aplicación, a fin de consolidar las bases necesarias para un diseño web moderno, responsivo y eficiente (Duckett, 2014).
-## *Objetivos * 
+## Objetivos
 ### Objetivo general
 Analizar los fundamentos de CSS Básico para comprender el uso de sus selectores, propiedades y técnicas de diseño aplicadas en el desarrollo de páginas web.
 ## Justificación

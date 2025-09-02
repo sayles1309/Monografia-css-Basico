@@ -1,4 +1,39 @@
-﻿# CSS BÁSICO
+<h1 align="center">UNIVERSIDAD NACIONAL DEL CENTRO DEL PERÚ</h1>
+
+<div align="center">   
+    <img width="400" height="350" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Escudo_UNCP.png" />
+</div>
+
+<h2 align="center">
+    <p>FACULTAD DE INGENIERÍA DE SISTEMAS</p>
+    <p>DESARROLLO DE APLICACIONES WEB</p>
+</h2>
+
+<h2 align="center">
+     
+</h2>
+
+*PRESENTADO POR:*
+
+◼️Castro Huaman Maria
+
+◼️Nuñez Delzo Gianfranco
+
+◼️Mallqui Cosme Lesly
+
+◼️Solano Ceras Marks
+
+◼️Chocca Aroni Saraid
+
+◼️Inga Cotera Joseph
+
+<h2 align="center">
+    <p>HUANCAYO -- PERÚ</p>
+    <p>2025</p>
+</h2>
+
+---
+ # CSS BÁSICO
 ## Definición de CSS básico
 CSS (Cascading Style Sheets) es el lenguaje que permite dar estilo y presentación a las páginas web. Define cómo se ven los textos, colores, fondos y la forma en que se acomodan los elementos en la pantalla, separando el contenido del diseño para hacerlo más claro y atractivo (**Kaluvakuri & Vadiyala, 2016, p. 96**).
 

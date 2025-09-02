@@ -36,6 +36,36 @@
 </h2>
 
 ---
+# ÍNDICE
+
+
+[ÍNDICE]
+
+[INTRODUCCIÓN]
+
+[CAPITULO 1 - Selectores simples y compuestos y Especificidad]
+
+[CAPITULO 2 - Propiedades de Texto y Fuentes]
+
+[CAPITULO 3 - Modelo de Caja (Box Model)]
+
+[CAPITULO 4 -Colores y Fondos]
+
+[CAPITULO 5 -Unidades de Medida (px, %, em, rem, vh, vw]
+
+[CAPITULO 6 - Posicionamiento (static, relative, absolute, fixed, sticky)]
+
+[CAPITULO 7 - Flexbox (Diseño flexible)]
+
+[CAPITULO 8] - Grid Layout (Diseño de cuadrícula)
+
+[CAPITULO 9] - Pseudo-clases y Pseudo-elementos
+
+[CAPITULO 10 - Transiciones y Animaciones básicas]
+
+[CONCLUSIÓN]
+
+[REFERENCIA BIBLIOGRÁFICA]
 ## Introducción 
 En la actualidad, el diseño web constituye un componente esencial en el desarrollo de aplicaciones y sitios en Internet, ya que permite estructurar la información de manera visualmente atractiva, funcional y accesible para los usuarios. Dentro de este contexto, Cascading Style Sheets (CSS) se ha convertido en una de las herramientas más importantes, pues otorga a los desarrolladores la capacidad de controlar la apariencia y el formato de los elementos HTML (MDN Web Docs, 2024).
 El presente trabajo monográfico aborda los conceptos fundamentales de CSS Básico, entre los cuales se incluyen los selectores simples y compuestos, la especificidad, las propiedades de texto y fuentes, el modelo de caja, los colores y fondos, las unidades de medida, los sistemas de posicionamiento, Flexbox, Grid Layout, así como las pseudo-clases y pseudo-elementos. Estos temas permiten comprender cómo se construyen y organizan las interfaces gráficas, fomentando el diseño adaptable y coherente en el entorno web (W3C, 2023).
